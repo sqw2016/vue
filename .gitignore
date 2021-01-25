@@ -21,3 +21,12 @@ dist
 .github
 .git
 package
+
+
+benchmarks
+examples
+flow
+scripts
+src
+test
+types
